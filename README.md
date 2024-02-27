@@ -76,7 +76,14 @@ You can cite our work as follows:
 }
 ```
 
-**TBA: LREC-COLING 2024 bibfile.**
+**TBA: LREC-COLING 2024 reference.**
+
+## Credits
+
+Many thanks to Paolo Torroni for their valuable feedback.
+
+Additional thanks to all reviewers for improving the manuscript.
+
 
 ## License
 
