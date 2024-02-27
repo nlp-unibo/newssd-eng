@@ -1,0 +1,25 @@
+Runtime train: 0.4365045470185578, load_weights: True
+Validation Results:
+              precision    recall  f1-score   support
+
+         OBJ       0.77      0.98      0.86       152
+        SUBJ       0.86      0.29      0.43        62
+
+    accuracy                           0.78       214
+   macro avg       0.81      0.64      0.65       214
+weighted avg       0.80      0.78      0.74       214
+
+
+Runtime inference val: 2.3164030897896737
+Test results:
+              precision    recall  f1-score   support
+
+         OBJ       0.77      0.97      0.86       167
+        SUBJ       0.69      0.18      0.29        60
+
+    accuracy                           0.76       227
+   macro avg       0.73      0.58      0.57       227
+weighted avg       0.75      0.76      0.71       227
+
+
+Runtime inference test: 0.9438949460163713

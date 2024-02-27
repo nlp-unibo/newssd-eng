@@ -1,0 +1,25 @@
+Runtime train: 0.9566674649249762
+Validation Results:
+              precision    recall  f1-score   support
+
+         OBJ       0.88      0.76      0.82       152
+        SUBJ       0.56      0.76      0.64        62
+
+    accuracy                           0.76       214
+   macro avg       0.72      0.76      0.73       214
+weighted avg       0.79      0.76      0.77       214
+
+
+Runtime inference val: 0.15059563098475337
+Test results:
+              precision    recall  f1-score   support
+
+         OBJ       0.86      0.78      0.82       167
+        SUBJ       0.51      0.63      0.56        60
+
+    accuracy                           0.74       227
+   macro avg       0.68      0.71      0.69       227
+weighted avg       0.76      0.74      0.75       227
+
+
+Runtime inference test: 0.1605485670734197
