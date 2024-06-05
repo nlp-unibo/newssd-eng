@@ -1,6 +1,6 @@
 # A Corpus for Sentence-Level Subjectivity Detection on English News Articles
 
-This repository contains the code and resources for the project ["A Corpus for Sentence-Level Subjectivity Detection on English News Articles"](https://arxiv.org/abs/2305.18034).
+This repository contains the code and resources for the project ["A Corpus for Sentence-Level Subjectivity Detection on English News Articles"](https://aclanthology.org/2024.lrec-main.25.pdf).
 
 ## Abstract
 
@@ -66,17 +66,27 @@ Francesco Antici: francesco.antici@unibo.it
 You can cite our work as follows:
 
 ```
-@misc{antici2023corpus,
-      title={A Corpus for Sentence-level Subjectivity Detection on English News Articles}, 
-      author={Francesco Antici and Andrea Galassi and Federico Ruggeri and Katerina Korre and Arianna Muti and Alessandra Bardi and Alice Fedotova and Alberto Barrón-Cedeño},
-      year={2023},
-      eprint={2305.18034},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{antici-etal-2024-corpus-sentence,
+    title = "A Corpus for Sentence-Level Subjectivity Detection on {E}nglish News Articles",
+    author = "Antici, Francesco  and
+      Ruggeri, Federico  and
+      Galassi, Andrea  and
+      Korre, Katerina  and
+      Muti, Arianna  and
+      Bardi, Alessandra  and
+      Fedotova, Alice  and
+      Barr{\'o}n-Cede{\~n}o, Alberto",
+    booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
+    month = may,
+    year = "2024",
+    address = "Torino, Italia",
+    publisher = "ELRA and ICCL",
+    url = "https://aclanthology.org/2024.lrec-main.25",
+    pages = "273--285",
+}
+
 }
 ```
-
-**TBA: LREC-COLING 2024 reference.**
 
 ## Credits
 
